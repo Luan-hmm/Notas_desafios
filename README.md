@@ -1,3 +1,3 @@
 # Desafio
 
-Desafio Mercantil.
+Destinado a resolução de desafios
